@@ -4,3 +4,4 @@ python-dotenv
 matplotlib
 google-cloud-bigquery
 pyarrow
+db-dtypes
