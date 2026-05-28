@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "name": "Chennai",
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    },
+    {
+      "name": "Hyderabad",
+      "latitude": 17.3850,
+      "longitude": 78.4867
+    },
+    {
+      "name": "Bengaluru",
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    {
+      "name": "Mumbai",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "name": "Itanagar",
+      "latitude": 27.1000,
+      "longitude": 93.6200
+    }
+  ],
+  "hourly_fields": [
+    "temperature_2m",
+    "relative_humidity_2m",
+    "wind_speed_10m"
+  ]
+}

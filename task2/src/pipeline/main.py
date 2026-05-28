@@ -89,7 +89,7 @@ def main():
     )
 
     if bq_ok:
-        logger.info("Data saved to BigQuery ✓")
+        logger.info("Data saved to BigQuery [OK]")
     else:
         logger.info("Data saved to processed CSVs only (BigQuery skipped)")
 
