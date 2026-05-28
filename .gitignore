@@ -16,12 +16,14 @@ env/
 
 # BigQuery / GCP credentials
 *.json
+!task1/config/*.json
+!task1/data/**/*.json
+!task2/src/config.json
 credentials.json
 service-account.json
+task2/credentials/
 
-# Logs
-logs/
-*.log
+
 
 # Jupyter
 .ipynb_checkpoints/
