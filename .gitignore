@@ -19,6 +19,7 @@ env/
 !task1/config/*.json
 !task1/data/**/*.json
 !task2/src/config.json
+!task2/data/raw/**/*.json
 credentials.json
 service-account.json
 task2/credentials/

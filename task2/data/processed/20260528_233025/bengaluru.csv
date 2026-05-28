@@ -1,0 +1,169 @@
+hour,city,latitude,longitude,temp,wind_speed,humidity,date,temp_category,wind_category,humidity_category
+0,Bengaluru,12.970123,77.56364,21.5,7.6,97,2026-05-28,Cool,Moderate,Very High
+1,Bengaluru,12.970123,77.56364,21.5,8.8,98,2026-05-28,Cool,Moderate,Very High
+2,Bengaluru,12.970123,77.56364,22.7,10.5,90,2026-05-28,Cool,High,Very High
+3,Bengaluru,12.970123,77.56364,24.4,8.9,82,2026-05-28,Cool,Moderate,Very High
+4,Bengaluru,12.970123,77.56364,26.3,10.1,72,2026-05-28,Medium,High,High
+5,Bengaluru,12.970123,77.56364,27.7,9.7,64,2026-05-28,Medium,Moderate,High
+6,Bengaluru,12.970123,77.56364,29.0,9.3,59,2026-05-28,Medium,Moderate,Moderate
+7,Bengaluru,12.970123,77.56364,29.8,8.6,55,2026-05-28,Medium,Moderate,Moderate
+8,Bengaluru,12.970123,77.56364,30.4,7.9,52,2026-05-28,Medium,Moderate,Moderate
+9,Bengaluru,12.970123,77.56364,30.5,7.3,52,2026-05-28,Medium,Moderate,Moderate
+10,Bengaluru,12.970123,77.56364,30.2,6.4,54,2026-05-28,Medium,Moderate,Moderate
+11,Bengaluru,12.970123,77.56364,29.7,6.7,55,2026-05-28,Medium,Moderate,Moderate
+12,Bengaluru,12.970123,77.56364,28.0,5.1,61,2026-05-28,Medium,Moderate,High
+13,Bengaluru,12.970123,77.56364,25.8,5.0,74,2026-05-28,Medium,Low,High
+14,Bengaluru,12.970123,77.56364,23.6,9.3,85,2026-05-28,Cool,Moderate,Very High
+15,Bengaluru,12.970123,77.56364,21.9,11.3,92,2026-05-28,Cool,High,Very High
+16,Bengaluru,12.970123,77.56364,21.4,4.2,93,2026-05-28,Cool,Low,Very High
+17,Bengaluru,12.970123,77.56364,21.4,7.1,95,2026-05-28,Cool,Moderate,Very High
+18,Bengaluru,12.970123,77.56364,21.5,7.3,92,2026-05-28,Cool,Moderate,Very High
+19,Bengaluru,12.970123,77.56364,21.2,8.8,93,2026-05-28,Cool,Moderate,Very High
+20,Bengaluru,12.970123,77.56364,21.0,9.4,94,2026-05-28,Cool,Moderate,Very High
+21,Bengaluru,12.970123,77.56364,20.9,9.2,96,2026-05-28,Cool,Moderate,Very High
+22,Bengaluru,12.970123,77.56364,20.9,9.0,97,2026-05-28,Cool,Moderate,Very High
+23,Bengaluru,12.970123,77.56364,20.9,9.8,98,2026-05-28,Cool,Moderate,Very High
+0,Bengaluru,12.970123,77.56364,20.9,9.1,98,2026-05-29,Cool,Moderate,Very High
+1,Bengaluru,12.970123,77.56364,21.0,8.4,97,2026-05-29,Cool,Moderate,Very High
+2,Bengaluru,12.970123,77.56364,22.2,10.1,90,2026-05-29,Cool,High,Very High
+3,Bengaluru,12.970123,77.56364,23.9,9.3,82,2026-05-29,Cool,Moderate,Very High
+4,Bengaluru,12.970123,77.56364,25.8,11.0,74,2026-05-29,Medium,High,High
+5,Bengaluru,12.970123,77.56364,27.6,11.2,65,2026-05-29,Medium,High,High
+6,Bengaluru,12.970123,77.56364,29.1,10.5,59,2026-05-29,Medium,High,Moderate
+7,Bengaluru,12.970123,77.56364,30.3,10.1,55,2026-05-29,Medium,High,Moderate
+8,Bengaluru,12.970123,77.56364,31.0,9.4,51,2026-05-29,Medium,Moderate,Moderate
+9,Bengaluru,12.970123,77.56364,31.5,9.0,50,2026-05-29,Medium,Moderate,Moderate
+10,Bengaluru,12.970123,77.56364,31.2,9.1,48,2026-05-29,Medium,Moderate,Moderate
+11,Bengaluru,12.970123,77.56364,30.5,7.9,51,2026-05-29,Medium,Moderate,Moderate
+12,Bengaluru,12.970123,77.56364,29.2,0.6,57,2026-05-29,Medium,Low,Moderate
+13,Bengaluru,12.970123,77.56364,25.6,5.1,78,2026-05-29,Medium,Moderate,High
+14,Bengaluru,12.970123,77.56364,23.2,8.7,90,2026-05-29,Cool,Moderate,Very High
+15,Bengaluru,12.970123,77.56364,20.5,5.8,98,2026-05-29,Cool,Moderate,Very High
+16,Bengaluru,12.970123,77.56364,21.2,6.6,97,2026-05-29,Cool,Moderate,Very High
+17,Bengaluru,12.970123,77.56364,21.5,7.6,98,2026-05-29,Cool,Moderate,Very High
+18,Bengaluru,12.970123,77.56364,21.5,10.3,96,2026-05-29,Cool,High,Very High
+19,Bengaluru,12.970123,77.56364,21.3,10.2,96,2026-05-29,Cool,High,Very High
+20,Bengaluru,12.970123,77.56364,21.1,10.0,97,2026-05-29,Cool,Moderate,Very High
+21,Bengaluru,12.970123,77.56364,21.1,10.6,98,2026-05-29,Cool,High,Very High
+22,Bengaluru,12.970123,77.56364,21.0,11.0,98,2026-05-29,Cool,High,Very High
+23,Bengaluru,12.970123,77.56364,21.0,12.4,98,2026-05-29,Cool,High,Very High
+0,Bengaluru,12.970123,77.56364,21.0,11.7,97,2026-05-30,Cool,High,Very High
+1,Bengaluru,12.970123,77.56364,21.1,9.0,97,2026-05-30,Cool,Moderate,Very High
+2,Bengaluru,12.970123,77.56364,22.3,10.5,88,2026-05-30,Cool,High,Very High
+3,Bengaluru,12.970123,77.56364,23.5,10.2,83,2026-05-30,Cool,High,Very High
+4,Bengaluru,12.970123,77.56364,25.7,9.0,73,2026-05-30,Medium,Moderate,High
+5,Bengaluru,12.970123,77.56364,27.0,9.9,69,2026-05-30,Medium,Moderate,High
+6,Bengaluru,12.970123,77.56364,28.6,9.2,63,2026-05-30,Medium,Moderate,High
+7,Bengaluru,12.970123,77.56364,29.2,8.3,60,2026-05-30,Medium,Moderate,Moderate
+8,Bengaluru,12.970123,77.56364,30.0,6.7,55,2026-05-30,Medium,Moderate,Moderate
+9,Bengaluru,12.970123,77.56364,30.6,6.6,54,2026-05-30,Medium,Moderate,Moderate
+10,Bengaluru,12.970123,77.56364,30.5,6.3,54,2026-05-30,Medium,Moderate,Moderate
+11,Bengaluru,12.970123,77.56364,30.1,5.3,54,2026-05-30,Medium,Moderate,Moderate
+12,Bengaluru,12.970123,77.56364,26.9,9.3,66,2026-05-30,Medium,Moderate,High
+13,Bengaluru,12.970123,77.56364,21.6,7.2,96,2026-05-30,Cool,Moderate,Very High
+14,Bengaluru,12.970123,77.56364,22.0,2.0,93,2026-05-30,Cool,Low,Very High
+15,Bengaluru,12.970123,77.56364,22.1,5.9,93,2026-05-30,Cool,Moderate,Very High
+16,Bengaluru,12.970123,77.56364,21.8,7.3,95,2026-05-30,Cool,Moderate,Very High
+17,Bengaluru,12.970123,77.56364,21.7,6.8,95,2026-05-30,Cool,Moderate,Very High
+18,Bengaluru,12.970123,77.56364,21.5,11.9,94,2026-05-30,Cool,High,Very High
+19,Bengaluru,12.970123,77.56364,21.3,8.5,95,2026-05-30,Cool,Moderate,Very High
+20,Bengaluru,12.970123,77.56364,21.4,11.1,95,2026-05-30,Cool,High,Very High
+21,Bengaluru,12.970123,77.56364,21.4,10.4,98,2026-05-30,Cool,High,Very High
+22,Bengaluru,12.970123,77.56364,21.8,9.0,97,2026-05-30,Cool,Moderate,Very High
+23,Bengaluru,12.970123,77.56364,21.4,8.3,98,2026-05-30,Cool,Moderate,Very High
+0,Bengaluru,12.970123,77.56364,21.1,8.1,98,2026-05-31,Cool,Moderate,Very High
+1,Bengaluru,12.970123,77.56364,21.2,8.5,97,2026-05-31,Cool,Moderate,Very High
+2,Bengaluru,12.970123,77.56364,22.5,10.6,90,2026-05-31,Cool,High,Very High
+3,Bengaluru,12.970123,77.56364,24.3,11.3,81,2026-05-31,Cool,High,Very High
+4,Bengaluru,12.970123,77.56364,26.0,10.0,75,2026-05-31,Medium,Moderate,High
+5,Bengaluru,12.970123,77.56364,27.6,11.0,67,2026-05-31,Medium,High,High
+6,Bengaluru,12.970123,77.56364,28.8,10.4,63,2026-05-31,Medium,High,High
+7,Bengaluru,12.970123,77.56364,29.6,9.6,58,2026-05-31,Medium,Moderate,Moderate
+8,Bengaluru,12.970123,77.56364,26.8,13.0,67,2026-05-31,Medium,High,High
+9,Bengaluru,12.970123,77.56364,24.6,2.9,81,2026-05-31,Cool,Low,Very High
+10,Bengaluru,12.970123,77.56364,25.6,3.1,79,2026-05-31,Medium,Low,High
+11,Bengaluru,12.970123,77.56364,26.8,0.6,73,2026-05-31,Medium,Low,High
+12,Bengaluru,12.970123,77.56364,27.0,4.1,71,2026-05-31,Medium,Low,High
+13,Bengaluru,12.970123,77.56364,25.6,10.6,80,2026-05-31,Medium,High,High
+14,Bengaluru,12.970123,77.56364,24.0,11.3,87,2026-05-31,Cool,High,Very High
+15,Bengaluru,12.970123,77.56364,22.8,11.2,91,2026-05-31,Cool,High,Very High
+16,Bengaluru,12.970123,77.56364,22.1,10.1,90,2026-05-31,Cool,High,Very High
+17,Bengaluru,12.970123,77.56364,21.4,10.1,92,2026-05-31,Cool,High,Very High
+18,Bengaluru,12.970123,77.56364,20.9,7.8,93,2026-05-31,Cool,Moderate,Very High
+19,Bengaluru,12.970123,77.56364,20.8,8.0,93,2026-05-31,Cool,Moderate,Very High
+20,Bengaluru,12.970123,77.56364,20.8,7.1,94,2026-05-31,Cool,Moderate,Very High
+21,Bengaluru,12.970123,77.56364,21.0,11.0,93,2026-05-31,Cool,High,Very High
+22,Bengaluru,12.970123,77.56364,20.5,6.7,93,2026-05-31,Cool,Moderate,Very High
+23,Bengaluru,12.970123,77.56364,20.5,7.5,96,2026-05-31,Cool,Moderate,Very High
+0,Bengaluru,12.970123,77.56364,20.7,8.8,98,2026-06-01,Cool,Moderate,Very High
+1,Bengaluru,12.970123,77.56364,21.4,9.2,94,2026-06-01,Cool,Moderate,Very High
+2,Bengaluru,12.970123,77.56364,22.3,10.3,89,2026-06-01,Cool,High,Very High
+3,Bengaluru,12.970123,77.56364,23.5,11.3,83,2026-06-01,Cool,High,Very High
+4,Bengaluru,12.970123,77.56364,24.9,11.0,76,2026-06-01,Cool,High,High
+5,Bengaluru,12.970123,77.56364,26.5,9.8,69,2026-06-01,Medium,Moderate,High
+6,Bengaluru,12.970123,77.56364,27.8,8.8,64,2026-06-01,Medium,Moderate,High
+7,Bengaluru,12.970123,77.56364,28.9,8.3,61,2026-06-01,Medium,Moderate,High
+8,Bengaluru,12.970123,77.56364,29.8,8.0,58,2026-06-01,Medium,Moderate,Moderate
+9,Bengaluru,12.970123,77.56364,30.0,7.4,57,2026-06-01,Medium,Moderate,Moderate
+10,Bengaluru,12.970123,77.56364,29.2,6.4,58,2026-06-01,Medium,Moderate,Moderate
+11,Bengaluru,12.970123,77.56364,27.8,6.7,61,2026-06-01,Medium,Moderate,High
+12,Bengaluru,12.970123,77.56364,26.2,7.4,66,2026-06-01,Medium,Moderate,High
+13,Bengaluru,12.970123,77.56364,24.8,6.6,74,2026-06-01,Cool,Moderate,High
+14,Bengaluru,12.970123,77.56364,23.4,5.1,85,2026-06-01,Cool,Moderate,Very High
+15,Bengaluru,12.970123,77.56364,22.3,4.2,94,2026-06-01,Cool,Low,Very High
+16,Bengaluru,12.970123,77.56364,22.0,4.4,96,2026-06-01,Cool,Low,Very High
+17,Bengaluru,12.970123,77.56364,22.0,5.5,94,2026-06-01,Cool,Moderate,Very High
+18,Bengaluru,12.970123,77.56364,22.0,6.9,93,2026-06-01,Cool,Moderate,Very High
+19,Bengaluru,12.970123,77.56364,21.9,8.0,94,2026-06-01,Cool,Moderate,Very High
+20,Bengaluru,12.970123,77.56364,21.7,8.8,96,2026-06-01,Cool,Moderate,Very High
+21,Bengaluru,12.970123,77.56364,21.5,9.4,97,2026-06-01,Cool,Moderate,Very High
+22,Bengaluru,12.970123,77.56364,21.2,9.1,98,2026-06-01,Cool,Moderate,Very High
+23,Bengaluru,12.970123,77.56364,20.9,8.5,99,2026-06-01,Cool,Moderate,Very High
+0,Bengaluru,12.970123,77.56364,20.9,8.3,98,2026-06-02,Cool,Moderate,Very High
+1,Bengaluru,12.970123,77.56364,21.4,8.6,95,2026-06-02,Cool,Moderate,Very High
+2,Bengaluru,12.970123,77.56364,22.2,9.1,89,2026-06-02,Cool,Moderate,Very High
+3,Bengaluru,12.970123,77.56364,23.4,9.5,83,2026-06-02,Cool,Moderate,Very High
+4,Bengaluru,12.970123,77.56364,25.0,9.4,76,2026-06-02,Cool,Moderate,High
+5,Bengaluru,12.970123,77.56364,26.9,9.1,68,2026-06-02,Medium,Moderate,High
+6,Bengaluru,12.970123,77.56364,28.4,8.6,62,2026-06-02,Medium,Moderate,High
+7,Bengaluru,12.970123,77.56364,29.5,8.3,58,2026-06-02,Medium,Moderate,Moderate
+8,Bengaluru,12.970123,77.56364,30.2,8.5,54,2026-06-02,Medium,Moderate,Moderate
+9,Bengaluru,12.970123,77.56364,30.0,8.4,54,2026-06-02,Medium,Moderate,Moderate
+10,Bengaluru,12.970123,77.56364,28.3,9.4,61,2026-06-02,Medium,Moderate,High
+11,Bengaluru,12.970123,77.56364,25.7,14.5,73,2026-06-02,Medium,High,High
+12,Bengaluru,12.970123,77.56364,23.6,18.1,84,2026-06-02,Cool,Very High,Very High
+13,Bengaluru,12.970123,77.56364,22.8,16.1,90,2026-06-02,Cool,Very High,Very High
+14,Bengaluru,12.970123,77.56364,22.5,11.1,94,2026-06-02,Cool,High,Very High
+15,Bengaluru,12.970123,77.56364,22.2,7.3,96,2026-06-02,Cool,Moderate,Very High
+16,Bengaluru,12.970123,77.56364,21.8,6.0,97,2026-06-02,Cool,Moderate,Very High
+17,Bengaluru,12.970123,77.56364,21.4,7.1,96,2026-06-02,Cool,Moderate,Very High
+18,Bengaluru,12.970123,77.56364,21.1,8.8,96,2026-06-02,Cool,Moderate,Very High
+19,Bengaluru,12.970123,77.56364,21.0,9.0,96,2026-06-02,Cool,Moderate,Very High
+20,Bengaluru,12.970123,77.56364,21.0,8.7,98,2026-06-02,Cool,Moderate,Very High
+21,Bengaluru,12.970123,77.56364,21.0,8.5,98,2026-06-02,Cool,Moderate,Very High
+22,Bengaluru,12.970123,77.56364,20.8,8.6,99,2026-06-02,Cool,Moderate,Very High
+23,Bengaluru,12.970123,77.56364,20.5,8.8,100,2026-06-02,Cool,Moderate,Very High
+0,Bengaluru,12.970123,77.56364,20.7,9.2,98,2026-06-03,Cool,Moderate,Very High
+1,Bengaluru,12.970123,77.56364,21.4,10.1,93,2026-06-03,Cool,High,Very High
+2,Bengaluru,12.970123,77.56364,22.5,11.0,87,2026-06-03,Cool,High,Very High
+3,Bengaluru,12.970123,77.56364,23.6,11.8,81,2026-06-03,Cool,High,Very High
+4,Bengaluru,12.970123,77.56364,25.0,11.8,74,2026-06-03,Cool,High,High
+5,Bengaluru,12.970123,77.56364,26.4,11.2,68,2026-06-03,Medium,High,High
+6,Bengaluru,12.970123,77.56364,27.5,10.8,64,2026-06-03,Medium,High,High
+7,Bengaluru,12.970123,77.56364,28.6,12.8,56,2026-06-03,Medium,High,Moderate
+8,Bengaluru,12.970123,77.56364,28.6,12.6,57,2026-06-03,Medium,High,Moderate
+9,Bengaluru,12.970123,77.56364,28.2,12.6,59,2026-06-03,Medium,High,Moderate
+10,Bengaluru,12.970123,77.56364,27.8,12.5,61,2026-06-03,Medium,High,High
+11,Bengaluru,12.970123,77.56364,27.2,12.6,64,2026-06-03,Medium,High,High
+12,Bengaluru,12.970123,77.56364,26.6,12.8,66,2026-06-03,Medium,High,High
+13,Bengaluru,12.970123,77.56364,26.1,12.9,69,2026-06-03,Medium,High,High
+14,Bengaluru,12.970123,77.56364,25.4,12.7,73,2026-06-03,Medium,High,High
+15,Bengaluru,12.970123,77.56364,24.6,12.7,77,2026-06-03,Cool,High,High
+16,Bengaluru,12.970123,77.56364,23.9,12.4,82,2026-06-03,Cool,High,Very High
+17,Bengaluru,12.970123,77.56364,23.2,12.1,85,2026-06-03,Cool,High,Very High
+18,Bengaluru,12.970123,77.56364,22.6,11.9,88,2026-06-03,Cool,High,Very High
+19,Bengaluru,12.970123,77.56364,22.2,11.6,91,2026-06-03,Cool,High,Very High
+20,Bengaluru,12.970123,77.56364,21.7,11.4,93,2026-06-03,Cool,High,Very High
+21,Bengaluru,12.970123,77.56364,21.3,11.3,95,2026-06-03,Cool,High,Very High
+22,Bengaluru,12.970123,77.56364,21.0,11.2,95,2026-06-03,Cool,High,Very High
+23,Bengaluru,12.970123,77.56364,21.0,11.4,95,2026-06-03,Cool,High,Very High

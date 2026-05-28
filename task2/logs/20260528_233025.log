@@ -1,0 +1,93 @@
+2026-05-28 23:30:25 - INFO - ==================================================
+2026-05-28 23:30:25 - INFO - PIPELINE START | Run ID: 20260528_233025
+2026-05-28 23:30:25 - INFO - ==================================================
+2026-05-28 23:30:25 - INFO - Log file   : task2\logs\20260528_233025.log
+2026-05-28 23:30:25 - INFO - Raw dir    : task2\data\raw\20260528_233025
+2026-05-28 23:30:25 - INFO - Processed  : task2\data\processed\20260528_233025
+2026-05-28 23:30:25 - INFO - Config loaded from task2\src\config.json
+2026-05-28 23:30:25 - INFO - === FETCH STEP START ===
+2026-05-28 23:30:25 - INFO - --- Fetching: Chennai ---
+2026-05-28 23:30:25 - INFO - Hitting API: https://api.open-meteo.com/v1/forecast | lat=13.0827, long=80.2707
+2026-05-28 23:30:28 - INFO - API response OK (status 200) for Chennai
+2026-05-28 23:30:28 - INFO - Chennai data saved -> task2\data\raw\20260528_233025\chennai_raw.json
+2026-05-28 23:30:28 - INFO - --- Fetching: Hyderabad ---
+2026-05-28 23:30:28 - INFO - Hitting API: https://api.open-meteo.com/v1/forecast | lat=17.385, long=78.4867
+2026-05-28 23:30:30 - INFO - API response OK (status 200) for Hyderabad
+2026-05-28 23:30:30 - INFO - Hyderabad data saved -> task2\data\raw\20260528_233025\hyderabad_raw.json
+2026-05-28 23:30:30 - INFO - --- Fetching: Bengaluru ---
+2026-05-28 23:30:30 - INFO - Hitting API: https://api.open-meteo.com/v1/forecast | lat=12.9716, long=77.5946
+2026-05-28 23:30:32 - INFO - API response OK (status 200) for Bengaluru
+2026-05-28 23:30:32 - INFO - Bengaluru data saved -> task2\data\raw\20260528_233025\bengaluru_raw.json
+2026-05-28 23:30:32 - INFO - --- Fetching: Mumbai ---
+2026-05-28 23:30:32 - INFO - Hitting API: https://api.open-meteo.com/v1/forecast | lat=19.076, long=72.8777
+2026-05-28 23:30:34 - INFO - API response OK (status 200) for Mumbai
+2026-05-28 23:30:34 - INFO - Mumbai data saved -> task2\data\raw\20260528_233025\mumbai_raw.json
+2026-05-28 23:30:34 - INFO - --- Fetching: Itanagar ---
+2026-05-28 23:30:34 - INFO - Hitting API: https://api.open-meteo.com/v1/forecast | lat=27.1, long=93.62
+2026-05-28 23:30:36 - INFO - API response OK (status 200) for Itanagar
+2026-05-28 23:30:36 - INFO - Itanagar data saved -> task2\data\raw\20260528_233025\itanagar_raw.json
+2026-05-28 23:30:36 - INFO - === FETCH STEP COMPLETE === -> task2\data\raw\20260528_233025
+2026-05-28 23:30:36 - INFO - === TRANSFORM STEP START ===
+2026-05-28 23:30:36 - INFO - Found 5 raw file(s) to process
+2026-05-28 23:30:36 - INFO - --- Transforming: Bengaluru ---
+2026-05-28 23:30:36 - INFO - Loaded task2\data\raw\20260528_233025\bengaluru_raw.json
+2026-05-28 23:30:36 - INFO - Built DataFrame: 168 rows, 7 columns
+2026-05-28 23:30:36 - INFO - Null check: 0 null(s) found, has_nulls=False
+2026-05-28 23:30:36 - INFO - Added categories: temp_category, wind_category, humidity_category
+2026-05-28 23:30:36 - INFO - No duplicates found
+2026-05-28 23:30:36 - INFO - Validation passed: all values in valid ranges
+2026-05-28 23:30:36 - INFO - Cleaned: 168 rows, columns: ['hour', 'city', 'latitude', 'longitude', 'temp', 'wind_speed', 'humidity', 'date', 'temp_category', 'wind_category', 'humidity_category']
+2026-05-28 23:30:36 - INFO - Bengaluru CSV saved -> task2\data\processed\20260528_233025\bengaluru.csv
+2026-05-28 23:30:36 - INFO - --- Transforming: Chennai ---
+2026-05-28 23:30:36 - INFO - Loaded task2\data\raw\20260528_233025\chennai_raw.json
+2026-05-28 23:30:36 - INFO - Built DataFrame: 168 rows, 7 columns
+2026-05-28 23:30:36 - INFO - Null check: 0 null(s) found, has_nulls=False
+2026-05-28 23:30:36 - INFO - Added categories: temp_category, wind_category, humidity_category
+2026-05-28 23:30:36 - INFO - No duplicates found
+2026-05-28 23:30:36 - INFO - Validation passed: all values in valid ranges
+2026-05-28 23:30:36 - INFO - Cleaned: 168 rows, columns: ['hour', 'city', 'latitude', 'longitude', 'temp', 'wind_speed', 'humidity', 'date', 'temp_category', 'wind_category', 'humidity_category']
+2026-05-28 23:30:36 - INFO - Chennai CSV saved -> task2\data\processed\20260528_233025\chennai.csv
+2026-05-28 23:30:36 - INFO - --- Transforming: Hyderabad ---
+2026-05-28 23:30:36 - INFO - Loaded task2\data\raw\20260528_233025\hyderabad_raw.json
+2026-05-28 23:30:36 - INFO - Built DataFrame: 168 rows, 7 columns
+2026-05-28 23:30:36 - INFO - Null check: 0 null(s) found, has_nulls=False
+2026-05-28 23:30:36 - INFO - Added categories: temp_category, wind_category, humidity_category
+2026-05-28 23:30:36 - INFO - No duplicates found
+2026-05-28 23:30:36 - INFO - Validation passed: all values in valid ranges
+2026-05-28 23:30:36 - INFO - Cleaned: 168 rows, columns: ['hour', 'city', 'latitude', 'longitude', 'temp', 'wind_speed', 'humidity', 'date', 'temp_category', 'wind_category', 'humidity_category']
+2026-05-28 23:30:36 - INFO - Hyderabad CSV saved -> task2\data\processed\20260528_233025\hyderabad.csv
+2026-05-28 23:30:36 - INFO - --- Transforming: Itanagar ---
+2026-05-28 23:30:36 - INFO - Loaded task2\data\raw\20260528_233025\itanagar_raw.json
+2026-05-28 23:30:36 - INFO - Built DataFrame: 168 rows, 7 columns
+2026-05-28 23:30:36 - INFO - Null check: 0 null(s) found, has_nulls=False
+2026-05-28 23:30:36 - INFO - Added categories: temp_category, wind_category, humidity_category
+2026-05-28 23:30:36 - INFO - No duplicates found
+2026-05-28 23:30:36 - INFO - Validation passed: all values in valid ranges
+2026-05-28 23:30:36 - INFO - Cleaned: 168 rows, columns: ['hour', 'city', 'latitude', 'longitude', 'temp', 'wind_speed', 'humidity', 'date', 'temp_category', 'wind_category', 'humidity_category']
+2026-05-28 23:30:36 - INFO - Itanagar CSV saved -> task2\data\processed\20260528_233025\itanagar.csv
+2026-05-28 23:30:36 - INFO - --- Transforming: Mumbai ---
+2026-05-28 23:30:36 - INFO - Loaded task2\data\raw\20260528_233025\mumbai_raw.json
+2026-05-28 23:30:36 - INFO - Built DataFrame: 168 rows, 7 columns
+2026-05-28 23:30:36 - INFO - Null check: 0 null(s) found, has_nulls=False
+2026-05-28 23:30:36 - INFO - Added categories: temp_category, wind_category, humidity_category
+2026-05-28 23:30:36 - INFO - No duplicates found
+2026-05-28 23:30:36 - INFO - Validation passed: all values in valid ranges
+2026-05-28 23:30:36 - INFO - Cleaned: 168 rows, columns: ['hour', 'city', 'latitude', 'longitude', 'temp', 'wind_speed', 'humidity', 'date', 'temp_category', 'wind_category', 'humidity_category']
+2026-05-28 23:30:36 - INFO - Mumbai CSV saved -> task2\data\processed\20260528_233025\mumbai.csv
+2026-05-28 23:30:36 - INFO - === TRANSFORM STEP COMPLETE === -> task2\data\processed\20260528_233025
+2026-05-28 23:30:36 - INFO - === BIGQUERY LOAD STEP START ===
+2026-05-28 23:30:36 - INFO - Credentials found: C:\Users\pavan\Downloads\Tacheon_Project\tacheon_assessment\task2/credentials/service-account.json
+2026-05-28 23:30:36 - INFO - Read bengaluru.csv: 168 rows
+2026-05-28 23:30:36 - INFO - Read chennai.csv: 168 rows
+2026-05-28 23:30:36 - INFO - Read hyderabad.csv: 168 rows
+2026-05-28 23:30:36 - INFO - Read itanagar.csv: 168 rows
+2026-05-28 23:30:36 - INFO - Read mumbai.csv: 168 rows
+2026-05-28 23:30:36 - INFO - Combined DataFrame: 840 rows from 5 files
+2026-05-28 23:30:36 - INFO - Columns: ['hour', 'city', 'latitude', 'longitude', 'temperature_c', 'wind_speed_kmh', 'humidity_pct', 'date', 'temp_category', 'wind_category', 'humidity_category']
+2026-05-28 23:30:36 - INFO - Uploading 840 rows to clear-adapter-497707-q2.weather_dataset.hourly_weather ...
+2026-05-28 23:30:44 - INFO - Upload complete: 840 rows in clear-adapter-497707-q2.weather_dataset.hourly_weather
+2026-05-28 23:30:44 - INFO - === BIGQUERY LOAD STEP COMPLETE ===
+2026-05-28 23:30:44 - INFO - Data saved to BigQuery [OK]
+2026-05-28 23:30:44 - INFO - ==================================================
+2026-05-28 23:30:44 - INFO - PIPELINE COMPLETE | Run ID: 20260528_233025
+2026-05-28 23:30:44 - INFO - ==================================================
