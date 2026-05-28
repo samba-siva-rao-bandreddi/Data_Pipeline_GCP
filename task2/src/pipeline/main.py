@@ -2,6 +2,7 @@ import os
 import sys
 import json
 from datetime import datetime
+from dotenv import load_dotenv
 
 # Resolve paths dynamically
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -15,6 +16,7 @@ if task2_dir not in sys.path:
 from utils.helpers import get_logger
 from src.loaders.fetch import run_fetch
 from src.Cleaners.transform import run_transform
+from src.loaders.bigquery_loader import run_bigquery_load
 
 
 def rel_path(abs_path):
@@ -23,6 +25,10 @@ def rel_path(abs_path):
 
 
 def main():
+    # ── 0. Load environment variables from .env ──
+    env_path = os.path.join(project_dir, ".env")
+    load_dotenv(env_path)
+
     # ── 1. Generate ONE timestamp for the entire pipeline run ──
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
@@ -68,7 +74,26 @@ def main():
         logger.error("Transform step failed.")
         return
 
-    # ── 7. Pipeline complete ──
+    # ── 7. LOAD TO BIGQUERY (optional — skips if no credentials) ──
+    project_id = os.getenv("GCP_PROJECT_ID", "")
+    dataset_name = os.getenv("DATASET_NAME", "")
+    credentials_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS", "")
+
+    # Resolve relative credentials path from project root
+    if credentials_path and not os.path.isabs(credentials_path):
+        credentials_path = os.path.join(project_dir, credentials_path)
+
+    bq_ok = run_bigquery_load(
+        processed_dir, project_id, dataset_name,
+        credentials_path, logger, rel_path
+    )
+
+    if bq_ok:
+        logger.info("Data saved to BigQuery ✓")
+    else:
+        logger.info("Data saved to processed CSVs only (BigQuery skipped)")
+
+    # ── 8. Pipeline complete ──
     logger.info(f"{'='*50}")
     logger.info(f"PIPELINE COMPLETE | Run ID: {timestamp}")
     logger.info(f"{'='*50}")
