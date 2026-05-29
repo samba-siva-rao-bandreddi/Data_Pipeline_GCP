@@ -1,0 +1,169 @@
+hour,city,latitude,longitude,temp,wind_speed,humidity,date,temp_category,wind_category,humidity_category
+0,Chennai,13.110721,80.2459,29.9,4.4,75,2026-05-29,Medium,Low,High
+1,Chennai,13.110721,80.2459,30.0,4.7,74,2026-05-29,Medium,Low,High
+2,Chennai,13.110721,80.2459,31.2,11.4,65,2026-05-29,Medium,High,High
+3,Chennai,13.110721,80.2459,32.7,15.9,58,2026-05-29,Hot,Very High,Moderate
+4,Chennai,13.110721,80.2459,35.0,16.6,47,2026-05-29,Hot,Very High,Moderate
+5,Chennai,13.110721,80.2459,36.3,14.5,45,2026-05-29,Hot,High,Moderate
+6,Chennai,13.110721,80.2459,38.0,11.4,39,2026-05-29,Hot,High,Moderate
+7,Chennai,13.110721,80.2459,38.6,5.0,35,2026-05-29,Extreme Hot,Low,Moderate
+8,Chennai,13.110721,80.2459,37.7,8.0,41,2026-05-29,Hot,Moderate,Moderate
+9,Chennai,13.110721,80.2459,36.0,14.1,52,2026-05-29,Hot,High,Moderate
+10,Chennai,13.110721,80.2459,34.7,15.4,58,2026-05-29,Hot,Very High,Moderate
+11,Chennai,13.110721,80.2459,34.1,15.1,56,2026-05-29,Hot,Very High,Moderate
+12,Chennai,13.110721,80.2459,33.8,13.9,58,2026-05-29,Hot,High,Moderate
+13,Chennai,13.110721,80.2459,33.1,14.3,60,2026-05-29,Hot,High,Moderate
+14,Chennai,13.110721,80.2459,32.2,13.4,65,2026-05-29,Hot,High,High
+15,Chennai,13.110721,80.2459,31.9,11.0,68,2026-05-29,Medium,High,High
+16,Chennai,13.110721,80.2459,31.6,11.3,70,2026-05-29,Medium,High,High
+17,Chennai,13.110721,80.2459,31.2,11.7,72,2026-05-29,Medium,High,High
+18,Chennai,13.110721,80.2459,30.7,11.3,75,2026-05-29,Medium,High,High
+19,Chennai,13.110721,80.2459,30.3,10.8,78,2026-05-29,Medium,High,High
+20,Chennai,13.110721,80.2459,30.0,12.8,76,2026-05-29,Medium,High,High
+21,Chennai,13.110721,80.2459,30.0,11.8,69,2026-05-29,Medium,High,High
+22,Chennai,13.110721,80.2459,29.9,10.7,66,2026-05-29,Medium,High,High
+23,Chennai,13.110721,80.2459,29.5,11.9,65,2026-05-29,Medium,High,High
+0,Chennai,13.110721,80.2459,29.0,11.9,64,2026-05-30,Medium,High,High
+1,Chennai,13.110721,80.2459,29.2,10.4,62,2026-05-30,Medium,High,High
+2,Chennai,13.110721,80.2459,30.8,11.9,57,2026-05-30,Medium,High,Moderate
+3,Chennai,13.110721,80.2459,32.9,11.9,51,2026-05-30,Hot,High,Moderate
+4,Chennai,13.110721,80.2459,34.9,11.6,47,2026-05-30,Hot,High,Moderate
+5,Chennai,13.110721,80.2459,36.8,8.3,42,2026-05-30,Hot,Moderate,Moderate
+6,Chennai,13.110721,80.2459,32.5,22.9,60,2026-05-30,Hot,Very High,Moderate
+7,Chennai,13.110721,80.2459,34.4,4.7,54,2026-05-30,Hot,Low,Moderate
+8,Chennai,13.110721,80.2459,36.1,4.0,48,2026-05-30,Hot,Low,Moderate
+9,Chennai,13.110721,80.2459,36.3,2.2,46,2026-05-30,Hot,Low,Moderate
+10,Chennai,13.110721,80.2459,36.2,2.5,46,2026-05-30,Hot,Low,Moderate
+11,Chennai,13.110721,80.2459,35.4,1.0,49,2026-05-30,Hot,Low,Moderate
+12,Chennai,13.110721,80.2459,34.5,2.3,53,2026-05-30,Hot,Low,Moderate
+13,Chennai,13.110721,80.2459,33.5,3.8,56,2026-05-30,Hot,Low,Moderate
+14,Chennai,13.110721,80.2459,33.0,5.0,58,2026-05-30,Hot,Low,Moderate
+15,Chennai,13.110721,80.2459,32.7,6.5,59,2026-05-30,Hot,Moderate,Moderate
+16,Chennai,13.110721,80.2459,32.0,8.0,62,2026-05-30,Medium,Moderate,High
+17,Chennai,13.110721,80.2459,31.4,8.0,64,2026-05-30,Medium,Moderate,High
+18,Chennai,13.110721,80.2459,30.8,7.1,69,2026-05-30,Medium,Moderate,High
+19,Chennai,13.110721,80.2459,30.4,6.9,72,2026-05-30,Medium,Moderate,High
+20,Chennai,13.110721,80.2459,29.7,7.2,75,2026-05-30,Medium,Moderate,High
+21,Chennai,13.110721,80.2459,29.3,6.6,75,2026-05-30,Medium,Moderate,High
+22,Chennai,13.110721,80.2459,29.2,8.5,74,2026-05-30,Medium,Moderate,High
+23,Chennai,13.110721,80.2459,29.1,8.9,73,2026-05-30,Medium,Moderate,High
+0,Chennai,13.110721,80.2459,29.0,9.8,69,2026-05-31,Medium,Moderate,High
+1,Chennai,13.110721,80.2459,29.1,8.6,67,2026-05-31,Medium,Moderate,High
+2,Chennai,13.110721,80.2459,30.6,9.6,60,2026-05-31,Medium,Moderate,Moderate
+3,Chennai,13.110721,80.2459,32.7,9.7,53,2026-05-31,Hot,Moderate,Moderate
+4,Chennai,13.110721,80.2459,34.7,8.3,47,2026-05-31,Hot,Moderate,Moderate
+5,Chennai,13.110721,80.2459,36.6,7.7,43,2026-05-31,Hot,Moderate,Moderate
+6,Chennai,13.110721,80.2459,37.8,4.2,40,2026-05-31,Hot,Low,Moderate
+7,Chennai,13.110721,80.2459,37.5,8.5,43,2026-05-31,Hot,Moderate,Moderate
+8,Chennai,13.110721,80.2459,36.2,14.1,49,2026-05-31,Hot,High,Moderate
+9,Chennai,13.110721,80.2459,35.5,13.8,54,2026-05-31,Hot,High,Moderate
+10,Chennai,13.110721,80.2459,34.8,15.9,56,2026-05-31,Hot,Very High,Moderate
+11,Chennai,13.110721,80.2459,33.6,17.2,60,2026-05-31,Hot,Very High,Moderate
+12,Chennai,13.110721,80.2459,32.8,14.6,63,2026-05-31,Hot,High,High
+13,Chennai,13.110721,80.2459,32.1,15.0,65,2026-05-31,Hot,High,High
+14,Chennai,13.110721,80.2459,32.5,12.5,65,2026-05-31,Hot,High,High
+15,Chennai,13.110721,80.2459,32.3,11.4,66,2026-05-31,Hot,High,High
+16,Chennai,13.110721,80.2459,31.9,9.8,68,2026-05-31,Medium,Moderate,High
+17,Chennai,13.110721,80.2459,31.5,8.4,69,2026-05-31,Medium,Moderate,High
+18,Chennai,13.110721,80.2459,31.0,8.5,71,2026-05-31,Medium,Moderate,High
+19,Chennai,13.110721,80.2459,30.5,8.9,72,2026-05-31,Medium,Moderate,High
+20,Chennai,13.110721,80.2459,30.0,9.4,70,2026-05-31,Medium,Moderate,High
+21,Chennai,13.110721,80.2459,29.5,9.8,71,2026-05-31,Medium,Moderate,High
+22,Chennai,13.110721,80.2459,29.2,8.7,72,2026-05-31,Medium,Moderate,High
+23,Chennai,13.110721,80.2459,28.9,9.8,73,2026-05-31,Medium,Moderate,High
+0,Chennai,13.110721,80.2459,28.5,9.3,72,2026-06-01,Medium,Moderate,High
+1,Chennai,13.110721,80.2459,28.6,8.1,69,2026-06-01,Medium,Moderate,High
+2,Chennai,13.110721,80.2459,30.1,8.2,61,2026-06-01,Medium,Moderate,High
+3,Chennai,13.110721,80.2459,32.2,7.6,53,2026-06-01,Hot,Moderate,Moderate
+4,Chennai,13.110721,80.2459,34.3,5.1,47,2026-06-01,Hot,Moderate,Moderate
+5,Chennai,13.110721,80.2459,36.2,1.9,41,2026-06-01,Hot,Low,Moderate
+6,Chennai,13.110721,80.2459,37.2,4.6,40,2026-06-01,Hot,Low,Moderate
+7,Chennai,13.110721,80.2459,37.0,9.4,43,2026-06-01,Hot,Moderate,Moderate
+8,Chennai,13.110721,80.2459,36.3,12.0,48,2026-06-01,Hot,High,Moderate
+9,Chennai,13.110721,80.2459,35.8,14.5,50,2026-06-01,Hot,High,Moderate
+10,Chennai,13.110721,80.2459,34.7,15.7,53,2026-06-01,Hot,Very High,Moderate
+11,Chennai,13.110721,80.2459,33.8,15.0,58,2026-06-01,Hot,High,Moderate
+12,Chennai,13.110721,80.2459,33.1,15.3,61,2026-06-01,Hot,Very High,High
+13,Chennai,13.110721,80.2459,32.3,14.6,62,2026-06-01,Hot,High,High
+14,Chennai,13.110721,80.2459,31.6,14.1,69,2026-06-01,Medium,High,High
+15,Chennai,13.110721,80.2459,31.3,13.8,74,2026-06-01,Medium,High,High
+16,Chennai,13.110721,80.2459,30.9,12.4,77,2026-06-01,Medium,High,High
+17,Chennai,13.110721,80.2459,30.8,10.5,77,2026-06-01,Medium,High,High
+18,Chennai,13.110721,80.2459,30.6,10.1,76,2026-06-01,Medium,High,High
+19,Chennai,13.110721,80.2459,30.4,9.6,76,2026-06-01,Medium,Moderate,High
+20,Chennai,13.110721,80.2459,30.2,8.2,73,2026-06-01,Medium,Moderate,High
+21,Chennai,13.110721,80.2459,30.0,8.5,70,2026-06-01,Medium,Moderate,High
+22,Chennai,13.110721,80.2459,29.4,9.0,71,2026-06-01,Medium,Moderate,High
+23,Chennai,13.110721,80.2459,28.9,6.6,72,2026-06-01,Medium,Moderate,High
+0,Chennai,13.110721,80.2459,28.5,5.0,73,2026-06-02,Medium,Low,High
+1,Chennai,13.110721,80.2459,29.4,5.2,68,2026-06-02,Medium,Moderate,High
+2,Chennai,13.110721,80.2459,30.7,5.8,62,2026-06-02,Medium,Moderate,High
+3,Chennai,13.110721,80.2459,32.1,5.1,56,2026-06-02,Hot,Moderate,Moderate
+4,Chennai,13.110721,80.2459,33.6,2.0,50,2026-06-02,Hot,Low,Moderate
+5,Chennai,13.110721,80.2459,35.2,2.4,46,2026-06-02,Hot,Low,Moderate
+6,Chennai,13.110721,80.2459,36.2,6.1,43,2026-06-02,Hot,Moderate,Moderate
+7,Chennai,13.110721,80.2459,36.3,8.8,44,2026-06-02,Hot,Moderate,Moderate
+8,Chennai,13.110721,80.2459,36.0,11.4,47,2026-06-02,Hot,High,Moderate
+9,Chennai,13.110721,80.2459,35.4,12.9,50,2026-06-02,Hot,High,Moderate
+10,Chennai,13.110721,80.2459,34.7,12.9,54,2026-06-02,Hot,High,Moderate
+11,Chennai,13.110721,80.2459,33.7,12.5,58,2026-06-02,Hot,High,Moderate
+12,Chennai,13.110721,80.2459,32.8,12.4,61,2026-06-02,Hot,High,High
+13,Chennai,13.110721,80.2459,32.3,13.1,64,2026-06-02,Hot,High,High
+14,Chennai,13.110721,80.2459,31.9,13.8,67,2026-06-02,Medium,High,High
+15,Chennai,13.110721,80.2459,31.4,13.8,70,2026-06-02,Medium,High,High
+16,Chennai,13.110721,80.2459,30.4,13.0,75,2026-06-02,Medium,High,High
+17,Chennai,13.110721,80.2459,29.2,13.6,81,2026-06-02,Medium,High,Very High
+18,Chennai,13.110721,80.2459,28.4,14.7,86,2026-06-02,Medium,High,Very High
+19,Chennai,13.110721,80.2459,28.0,13.2,88,2026-06-02,Medium,High,Very High
+20,Chennai,13.110721,80.2459,27.9,10.0,87,2026-06-02,Medium,Moderate,Very High
+21,Chennai,13.110721,80.2459,27.8,7.6,86,2026-06-02,Medium,Moderate,Very High
+22,Chennai,13.110721,80.2459,27.5,7.1,87,2026-06-02,Medium,Moderate,Very High
+23,Chennai,13.110721,80.2459,27.2,7.2,87,2026-06-02,Medium,Moderate,Very High
+0,Chennai,13.110721,80.2459,27.5,7.6,84,2026-06-03,Medium,Moderate,Very High
+1,Chennai,13.110721,80.2459,28.3,8.4,79,2026-06-03,Medium,Moderate,High
+2,Chennai,13.110721,80.2459,29.6,9.8,71,2026-06-03,Medium,Moderate,High
+3,Chennai,13.110721,80.2459,31.0,9.7,64,2026-06-03,Medium,Moderate,High
+4,Chennai,13.110721,80.2459,32.8,7.1,56,2026-06-03,Hot,Moderate,Moderate
+5,Chennai,13.110721,80.2459,34.6,3.3,49,2026-06-03,Hot,Low,Moderate
+6,Chennai,13.110721,80.2459,35.8,1.7,46,2026-06-03,Hot,Low,Moderate
+7,Chennai,13.110721,80.2459,35.8,4.0,48,2026-06-03,Hot,Low,Moderate
+8,Chennai,13.110721,80.2459,35.2,7.7,53,2026-06-03,Hot,Moderate,Moderate
+9,Chennai,13.110721,80.2459,34.5,9.9,58,2026-06-03,Hot,Moderate,Moderate
+10,Chennai,13.110721,80.2459,33.7,8.8,63,2026-06-03,Hot,Moderate,High
+11,Chennai,13.110721,80.2459,32.7,5.9,67,2026-06-03,Hot,Moderate,High
+12,Chennai,13.110721,80.2459,31.9,4.5,71,2026-06-03,Medium,Low,High
+13,Chennai,13.110721,80.2459,31.5,6.3,71,2026-06-03,Medium,Moderate,High
+14,Chennai,13.110721,80.2459,31.4,9.5,71,2026-06-03,Medium,Moderate,High
+15,Chennai,13.110721,80.2459,30.9,11.3,72,2026-06-03,Medium,High,High
+16,Chennai,13.110721,80.2459,29.7,10.7,77,2026-06-03,Medium,High,High
+17,Chennai,13.110721,80.2459,28.2,10.4,85,2026-06-03,Medium,High,Very High
+18,Chennai,13.110721,80.2459,27.1,10.9,91,2026-06-03,Medium,High,Very High
+19,Chennai,13.110721,80.2459,27.0,11.4,90,2026-06-03,Medium,High,Very High
+20,Chennai,13.110721,80.2459,27.1,11.8,86,2026-06-03,Medium,High,Very High
+21,Chennai,13.110721,80.2459,27.4,11.5,83,2026-06-03,Medium,High,Very High
+22,Chennai,13.110721,80.2459,27.2,10.4,83,2026-06-03,Medium,High,Very High
+23,Chennai,13.110721,80.2459,27.1,9.1,83,2026-06-03,Medium,Moderate,Very High
+0,Chennai,13.110721,80.2459,27.3,8.5,82,2026-06-04,Medium,Moderate,Very High
+1,Chennai,13.110721,80.2459,28.1,8.3,77,2026-06-04,Medium,Moderate,High
+2,Chennai,13.110721,80.2459,29.3,8.4,71,2026-06-04,Medium,Moderate,High
+3,Chennai,13.110721,80.2459,30.6,8.2,65,2026-06-04,Medium,Moderate,High
+4,Chennai,13.110721,80.2459,32.1,7.6,60,2026-06-04,Hot,Moderate,Moderate
+5,Chennai,13.110721,80.2459,33.8,7.0,55,2026-06-04,Hot,Moderate,Moderate
+6,Chennai,13.110721,80.2459,34.9,6.7,52,2026-06-04,Hot,Moderate,Moderate
+7,Chennai,13.110721,80.2459,36.2,4.5,46,2026-06-04,Hot,Low,Moderate
+8,Chennai,13.110721,80.2459,35.8,4.1,48,2026-06-04,Hot,Low,Moderate
+9,Chennai,13.110721,80.2459,35.2,5.0,50,2026-06-04,Hot,Low,Moderate
+10,Chennai,13.110721,80.2459,34.3,7.1,54,2026-06-04,Hot,Moderate,Moderate
+11,Chennai,13.110721,80.2459,33.5,8.9,57,2026-06-04,Hot,Moderate,Moderate
+12,Chennai,13.110721,80.2459,32.7,10.0,61,2026-06-04,Hot,Moderate,High
+13,Chennai,13.110721,80.2459,32.0,10.1,64,2026-06-04,Medium,High,High
+14,Chennai,13.110721,80.2459,31.0,10.1,69,2026-06-04,Medium,High,High
+15,Chennai,13.110721,80.2459,30.1,10.3,74,2026-06-04,Medium,High,High
+16,Chennai,13.110721,80.2459,29.2,10.9,79,2026-06-04,Medium,High,High
+17,Chennai,13.110721,80.2459,28.5,12.1,84,2026-06-04,Medium,High,Very High
+18,Chennai,13.110721,80.2459,28.0,12.8,87,2026-06-04,Medium,High,Very High
+19,Chennai,13.110721,80.2459,27.5,13.0,88,2026-06-04,Medium,High,Very High
+20,Chennai,13.110721,80.2459,27.1,13.0,89,2026-06-04,Medium,High,Very High
+21,Chennai,13.110721,80.2459,27.0,12.5,88,2026-06-04,Medium,High,Very High
+22,Chennai,13.110721,80.2459,26.9,11.9,86,2026-06-04,Medium,High,Very High
+23,Chennai,13.110721,80.2459,27.0,11.4,84,2026-06-04,Medium,High,Very High

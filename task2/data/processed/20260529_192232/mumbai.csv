@@ -1,0 +1,169 @@
+hour,city,latitude,longitude,temp,wind_speed,humidity,date,temp_category,wind_category,humidity_category
+0,Mumbai,19.086115,72.85291,30.4,12.9,71,2026-05-29,Medium,High,High
+1,Mumbai,19.086115,72.85291,30.2,12.9,72,2026-05-29,Medium,High,High
+2,Mumbai,19.086115,72.85291,31.1,13.2,67,2026-05-29,Medium,High,High
+3,Mumbai,19.086115,72.85291,32.0,12.8,63,2026-05-29,Medium,High,High
+4,Mumbai,19.086115,72.85291,32.6,13.5,61,2026-05-29,Hot,High,High
+5,Mumbai,19.086115,72.85291,33.0,14.6,58,2026-05-29,Hot,High,Moderate
+6,Mumbai,19.086115,72.85291,34.0,12.7,56,2026-05-29,Hot,High,Moderate
+7,Mumbai,19.086115,72.85291,34.2,13.5,55,2026-05-29,Hot,High,Moderate
+8,Mumbai,19.086115,72.85291,34.2,14.1,56,2026-05-29,Hot,High,Moderate
+9,Mumbai,19.086115,72.85291,34.2,14.7,55,2026-05-29,Hot,High,Moderate
+10,Mumbai,19.086115,72.85291,33.7,14.5,57,2026-05-29,Hot,High,Moderate
+11,Mumbai,19.086115,72.85291,33.2,13.8,59,2026-05-29,Hot,High,Moderate
+12,Mumbai,19.086115,72.85291,32.3,13.2,63,2026-05-29,Hot,High,High
+13,Mumbai,19.086115,72.85291,31.6,12.3,67,2026-05-29,Medium,High,High
+14,Mumbai,19.086115,72.85291,30.9,12.2,70,2026-05-29,Medium,High,High
+15,Mumbai,19.086115,72.85291,30.8,12.4,70,2026-05-29,Medium,High,High
+16,Mumbai,19.086115,72.85291,30.8,12.7,70,2026-05-29,Medium,High,High
+17,Mumbai,19.086115,72.85291,30.7,12.7,69,2026-05-29,Medium,High,High
+18,Mumbai,19.086115,72.85291,30.5,13.2,69,2026-05-29,Medium,High,High
+19,Mumbai,19.086115,72.85291,30.5,14.4,69,2026-05-29,Medium,High,High
+20,Mumbai,19.086115,72.85291,30.2,14.3,70,2026-05-29,Medium,High,High
+21,Mumbai,19.086115,72.85291,30.1,14.9,71,2026-05-29,Medium,High,High
+22,Mumbai,19.086115,72.85291,30.1,15.2,71,2026-05-29,Medium,Very High,High
+23,Mumbai,19.086115,72.85291,30.0,15.5,72,2026-05-29,Medium,Very High,High
+0,Mumbai,19.086115,72.85291,30.0,15.0,72,2026-05-30,Medium,High,High
+1,Mumbai,19.086115,72.85291,30.1,14.3,72,2026-05-30,Medium,High,High
+2,Mumbai,19.086115,72.85291,30.8,14.1,69,2026-05-30,Medium,High,High
+3,Mumbai,19.086115,72.85291,31.6,14.1,65,2026-05-30,Medium,High,High
+4,Mumbai,19.086115,72.85291,32.5,13.6,61,2026-05-30,Hot,High,High
+5,Mumbai,19.086115,72.85291,33.2,13.3,57,2026-05-30,Hot,High,Moderate
+6,Mumbai,19.086115,72.85291,33.9,13.2,54,2026-05-30,Hot,High,Moderate
+7,Mumbai,19.086115,72.85291,34.1,13.7,54,2026-05-30,Hot,High,Moderate
+8,Mumbai,19.086115,72.85291,34.3,13.5,52,2026-05-30,Hot,High,Moderate
+9,Mumbai,19.086115,72.85291,34.0,14.5,52,2026-05-30,Hot,High,Moderate
+10,Mumbai,19.086115,72.85291,33.5,15.8,56,2026-05-30,Hot,Very High,Moderate
+11,Mumbai,19.086115,72.85291,32.9,16.7,58,2026-05-30,Hot,Very High,Moderate
+12,Mumbai,19.086115,72.85291,32.3,16.7,60,2026-05-30,Hot,Very High,Moderate
+13,Mumbai,19.086115,72.85291,31.8,15.9,62,2026-05-30,Medium,Very High,High
+14,Mumbai,19.086115,72.85291,31.4,14.5,64,2026-05-30,Medium,High,High
+15,Mumbai,19.086115,72.85291,31.2,14.1,65,2026-05-30,Medium,High,High
+16,Mumbai,19.086115,72.85291,31.2,13.9,65,2026-05-30,Medium,High,High
+17,Mumbai,19.086115,72.85291,31.0,12.8,66,2026-05-30,Medium,High,High
+18,Mumbai,19.086115,72.85291,30.9,10.9,67,2026-05-30,Medium,High,High
+19,Mumbai,19.086115,72.85291,30.5,9.8,68,2026-05-30,Medium,Moderate,High
+20,Mumbai,19.086115,72.85291,30.0,9.4,71,2026-05-30,Medium,Moderate,High
+21,Mumbai,19.086115,72.85291,29.8,11.4,72,2026-05-30,Medium,High,High
+22,Mumbai,19.086115,72.85291,29.5,9.7,74,2026-05-30,Medium,Moderate,High
+23,Mumbai,19.086115,72.85291,29.6,8.8,74,2026-05-30,Medium,Moderate,High
+0,Mumbai,19.086115,72.85291,29.6,10.2,75,2026-05-31,Medium,High,High
+1,Mumbai,19.086115,72.85291,29.5,10.4,76,2026-05-31,Medium,High,High
+2,Mumbai,19.086115,72.85291,30.4,10.8,72,2026-05-31,Medium,High,High
+3,Mumbai,19.086115,72.85291,30.9,10.7,69,2026-05-31,Medium,High,High
+4,Mumbai,19.086115,72.85291,31.9,11.2,65,2026-05-31,Medium,High,High
+5,Mumbai,19.086115,72.85291,32.5,12.1,62,2026-05-31,Hot,High,High
+6,Mumbai,19.086115,72.85291,32.9,12.5,61,2026-05-31,Hot,High,High
+7,Mumbai,19.086115,72.85291,33.2,13.2,61,2026-05-31,Hot,High,High
+8,Mumbai,19.086115,72.85291,33.3,13.7,60,2026-05-31,Hot,High,Moderate
+9,Mumbai,19.086115,72.85291,33.3,13.9,61,2026-05-31,Hot,High,High
+10,Mumbai,19.086115,72.85291,33.1,13.9,62,2026-05-31,Hot,High,High
+11,Mumbai,19.086115,72.85291,32.7,13.9,63,2026-05-31,Hot,High,High
+12,Mumbai,19.086115,72.85291,32.0,14.1,66,2026-05-31,Medium,High,High
+13,Mumbai,19.086115,72.85291,31.4,13.5,69,2026-05-31,Medium,High,High
+14,Mumbai,19.086115,72.85291,31.0,11.7,70,2026-05-31,Medium,High,High
+15,Mumbai,19.086115,72.85291,30.8,11.1,71,2026-05-31,Medium,High,High
+16,Mumbai,19.086115,72.85291,30.5,9.6,72,2026-05-31,Medium,Moderate,High
+17,Mumbai,19.086115,72.85291,30.5,8.2,72,2026-05-31,Medium,Moderate,High
+18,Mumbai,19.086115,72.85291,30.0,8.8,75,2026-05-31,Medium,Moderate,High
+19,Mumbai,19.086115,72.85291,29.6,7.9,75,2026-05-31,Medium,Moderate,High
+20,Mumbai,19.086115,72.85291,29.5,7.4,76,2026-05-31,Medium,Moderate,High
+21,Mumbai,19.086115,72.85291,29.1,7.0,79,2026-05-31,Medium,Moderate,High
+22,Mumbai,19.086115,72.85291,29.1,6.7,79,2026-05-31,Medium,Moderate,High
+23,Mumbai,19.086115,72.85291,29.1,5.5,79,2026-05-31,Medium,Moderate,High
+0,Mumbai,19.086115,72.85291,28.9,4.7,81,2026-06-01,Medium,Low,Very High
+1,Mumbai,19.086115,72.85291,28.8,4.8,82,2026-06-01,Medium,Low,Very High
+2,Mumbai,19.086115,72.85291,29.4,5.6,78,2026-06-01,Medium,Moderate,High
+3,Mumbai,19.086115,72.85291,30.1,6.7,74,2026-06-01,Medium,Moderate,High
+4,Mumbai,19.086115,72.85291,30.5,8.8,72,2026-06-01,Medium,Moderate,High
+5,Mumbai,19.086115,72.85291,30.6,11.2,71,2026-06-01,Medium,High,High
+6,Mumbai,19.086115,72.85291,31.4,13.0,66,2026-06-01,Medium,High,High
+7,Mumbai,19.086115,72.85291,31.6,13.2,69,2026-06-01,Medium,High,High
+8,Mumbai,19.086115,72.85291,31.6,13.8,70,2026-06-01,Medium,High,High
+9,Mumbai,19.086115,72.85291,31.8,14.9,69,2026-06-01,Medium,High,High
+10,Mumbai,19.086115,72.85291,31.6,14.4,70,2026-06-01,Medium,High,High
+11,Mumbai,19.086115,72.85291,31.4,13.3,72,2026-06-01,Medium,High,High
+12,Mumbai,19.086115,72.85291,30.9,11.4,73,2026-06-01,Medium,High,High
+13,Mumbai,19.086115,72.85291,30.4,10.8,76,2026-06-01,Medium,High,High
+14,Mumbai,19.086115,72.85291,30.1,9.1,76,2026-06-01,Medium,Moderate,High
+15,Mumbai,19.086115,72.85291,30.1,7.3,77,2026-06-01,Medium,Moderate,High
+16,Mumbai,19.086115,72.85291,29.9,6.0,78,2026-06-01,Medium,Moderate,High
+17,Mumbai,19.086115,72.85291,29.8,4.4,79,2026-06-01,Medium,Low,High
+18,Mumbai,19.086115,72.85291,29.5,4.1,80,2026-06-01,Medium,Low,High
+19,Mumbai,19.086115,72.85291,29.2,5.7,81,2026-06-01,Medium,Moderate,Very High
+20,Mumbai,19.086115,72.85291,29.0,6.6,82,2026-06-01,Medium,Moderate,Very High
+21,Mumbai,19.086115,72.85291,28.6,3.8,84,2026-06-01,Medium,Low,Very High
+22,Mumbai,19.086115,72.85291,28.5,3.9,85,2026-06-01,Medium,Low,Very High
+23,Mumbai,19.086115,72.85291,28.3,3.2,87,2026-06-01,Medium,Low,Very High
+0,Mumbai,19.086115,72.85291,28.4,4.0,87,2026-06-02,Medium,Low,Very High
+1,Mumbai,19.086115,72.85291,28.7,4.0,84,2026-06-02,Medium,Low,Very High
+2,Mumbai,19.086115,72.85291,29.3,3.4,81,2026-06-02,Medium,Low,Very High
+3,Mumbai,19.086115,72.85291,30.0,3.5,76,2026-06-02,Medium,Low,High
+4,Mumbai,19.086115,72.85291,30.9,5.0,71,2026-06-02,Medium,Low,High
+5,Mumbai,19.086115,72.85291,32.0,8.1,65,2026-06-02,Medium,Moderate,High
+6,Mumbai,19.086115,72.85291,32.7,10.8,61,2026-06-02,Hot,High,High
+7,Mumbai,19.086115,72.85291,33.0,12.4,59,2026-06-02,Hot,High,Moderate
+8,Mumbai,19.086115,72.85291,32.8,13.3,59,2026-06-02,Hot,High,Moderate
+9,Mumbai,19.086115,72.85291,32.7,13.8,60,2026-06-02,Hot,High,Moderate
+10,Mumbai,19.086115,72.85291,32.3,13.2,62,2026-06-02,Hot,High,High
+11,Mumbai,19.086115,72.85291,31.8,12.0,65,2026-06-02,Medium,High,High
+12,Mumbai,19.086115,72.85291,31.3,10.9,68,2026-06-02,Medium,High,High
+13,Mumbai,19.086115,72.85291,30.9,9.8,70,2026-06-02,Medium,Moderate,High
+14,Mumbai,19.086115,72.85291,30.5,9.0,72,2026-06-02,Medium,Moderate,High
+15,Mumbai,19.086115,72.85291,30.1,8.2,73,2026-06-02,Medium,Moderate,High
+16,Mumbai,19.086115,72.85291,30.0,7.2,74,2026-06-02,Medium,Moderate,High
+17,Mumbai,19.086115,72.85291,30.0,6.2,74,2026-06-02,Medium,Moderate,High
+18,Mumbai,19.086115,72.85291,29.9,5.6,74,2026-06-02,Medium,Moderate,High
+19,Mumbai,19.086115,72.85291,29.7,5.0,75,2026-06-02,Medium,Low,High
+20,Mumbai,19.086115,72.85291,29.5,4.3,77,2026-06-02,Medium,Low,High
+21,Mumbai,19.086115,72.85291,29.1,3.3,79,2026-06-02,Medium,Low,High
+22,Mumbai,19.086115,72.85291,28.5,1.3,82,2026-06-02,Medium,Low,Very High
+23,Mumbai,19.086115,72.85291,27.8,1.8,85,2026-06-02,Medium,Low,Very High
+0,Mumbai,19.086115,72.85291,27.5,1.9,86,2026-06-03,Medium,Low,Very High
+1,Mumbai,19.086115,72.85291,28.0,3.7,83,2026-06-03,Medium,Low,Very High
+2,Mumbai,19.086115,72.85291,28.9,10.5,78,2026-06-03,Medium,High,High
+3,Mumbai,19.086115,72.85291,29.8,15.2,73,2026-06-03,Medium,Very High,High
+4,Mumbai,19.086115,72.85291,30.6,15.3,70,2026-06-03,Medium,Very High,High
+5,Mumbai,19.086115,72.85291,31.4,14.0,66,2026-06-03,Medium,High,High
+6,Mumbai,19.086115,72.85291,31.9,13.9,65,2026-06-03,Medium,High,High
+7,Mumbai,19.086115,72.85291,31.9,14.7,65,2026-06-03,Medium,High,High
+8,Mumbai,19.086115,72.85291,31.6,15.6,67,2026-06-03,Medium,Very High,High
+9,Mumbai,19.086115,72.85291,31.4,16.2,68,2026-06-03,Medium,Very High,High
+10,Mumbai,19.086115,72.85291,31.1,15.8,70,2026-06-03,Medium,Very High,High
+11,Mumbai,19.086115,72.85291,30.9,14.6,71,2026-06-03,Medium,High,High
+12,Mumbai,19.086115,72.85291,30.6,13.3,72,2026-06-03,Medium,High,High
+13,Mumbai,19.086115,72.85291,30.3,12.1,73,2026-06-03,Medium,High,High
+14,Mumbai,19.086115,72.85291,30.0,10.6,74,2026-06-03,Medium,High,High
+15,Mumbai,19.086115,72.85291,29.6,9.4,75,2026-06-03,Medium,Moderate,High
+16,Mumbai,19.086115,72.85291,29.2,8.3,77,2026-06-03,Medium,Moderate,High
+17,Mumbai,19.086115,72.85291,28.8,7.6,80,2026-06-03,Medium,Moderate,High
+18,Mumbai,19.086115,72.85291,28.4,7.3,83,2026-06-03,Medium,Moderate,Very High
+19,Mumbai,19.086115,72.85291,28.1,7.3,84,2026-06-03,Medium,Moderate,Very High
+20,Mumbai,19.086115,72.85291,27.9,7.6,84,2026-06-03,Medium,Moderate,Very High
+21,Mumbai,19.086115,72.85291,27.6,7.6,84,2026-06-03,Medium,Moderate,Very High
+22,Mumbai,19.086115,72.85291,27.3,7.2,85,2026-06-03,Medium,Moderate,Very High
+23,Mumbai,19.086115,72.85291,27.0,7.3,87,2026-06-03,Medium,Moderate,Very High
+0,Mumbai,19.086115,72.85291,27.0,8.0,87,2026-06-04,Medium,Moderate,Very High
+1,Mumbai,19.086115,72.85291,27.4,9.0,85,2026-06-04,Medium,Moderate,Very High
+2,Mumbai,19.086115,72.85291,28.0,10.0,83,2026-06-04,Medium,Moderate,Very High
+3,Mumbai,19.086115,72.85291,28.7,10.6,80,2026-06-04,Medium,High,High
+4,Mumbai,19.086115,72.85291,29.6,11.2,75,2026-06-04,Medium,High,High
+5,Mumbai,19.086115,72.85291,30.7,12.6,70,2026-06-04,Medium,High,High
+6,Mumbai,19.086115,72.85291,31.5,14.2,67,2026-06-04,Medium,High,High
+7,Mumbai,19.086115,72.85291,32.0,13.2,63,2026-06-04,Medium,High,High
+8,Mumbai,19.086115,72.85291,32.1,13.4,63,2026-06-04,Hot,High,High
+9,Mumbai,19.086115,72.85291,32.0,13.4,63,2026-06-04,Medium,High,High
+10,Mumbai,19.086115,72.85291,31.8,13.4,64,2026-06-04,Medium,High,High
+11,Mumbai,19.086115,72.85291,31.5,13.2,65,2026-06-04,Medium,High,High
+12,Mumbai,19.086115,72.85291,31.3,13.0,66,2026-06-04,Medium,High,High
+13,Mumbai,19.086115,72.85291,31.0,12.2,68,2026-06-04,Medium,High,High
+14,Mumbai,19.086115,72.85291,30.8,10.8,70,2026-06-04,Medium,High,High
+15,Mumbai,19.086115,72.85291,30.4,9.3,73,2026-06-04,Medium,Moderate,High
+16,Mumbai,19.086115,72.85291,30.0,7.9,75,2026-06-04,Medium,Moderate,High
+17,Mumbai,19.086115,72.85291,29.6,6.8,78,2026-06-04,Medium,Moderate,High
+18,Mumbai,19.086115,72.85291,29.3,6.4,80,2026-06-04,Medium,Moderate,High
+19,Mumbai,19.086115,72.85291,29.0,6.5,82,2026-06-04,Medium,Moderate,Very High
+20,Mumbai,19.086115,72.85291,28.5,6.9,84,2026-06-04,Medium,Moderate,Very High
+21,Mumbai,19.086115,72.85291,28.1,7.7,86,2026-06-04,Medium,Moderate,Very High
+22,Mumbai,19.086115,72.85291,27.9,8.7,88,2026-06-04,Medium,Moderate,Very High
+23,Mumbai,19.086115,72.85291,27.6,9.4,88,2026-06-04,Medium,Moderate,Very High
