@@ -1,4 +1,4 @@
-# Tacheon Assessment — Weather Data Pipeline
+#  Weather Data Pipeline
 
 A Python-based ETL pipeline that **fetches** real-time weather forecasts from the [Open-Meteo API](https://open-meteo.com/), **transforms** the data (cleaning, categorization, validation), and  **loads** it into **Google BigQuery**.
 
